@@ -10,7 +10,6 @@
 ## 💫 About Me
 
 - 💻 Focused on building modern web applications.
-- 🚀 Interested in developing real products.
 - 🧠 Passionate about software architecture and scalable systems.
 - 🎯 Always exploring better ways to design and build software.
 
