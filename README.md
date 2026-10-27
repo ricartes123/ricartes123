@@ -34,17 +34,25 @@
 
 ## 🚀 Featured Projects
 
-### 📦 SuStock
+### 🎮 [PokéRush](https://poke-rush.com)
+Real-time 1v1 web game with matchmaking, private rooms, reconnection, rematches and a practice mode.  
+**Tech:** React · Vite · Node.js · Express · Socket.IO  
+🔗 [poke-rush.com](https://poke-rush.com)
+
+### 📦 [SuStock](https://sustock.vercel.app/)
 Inventory management SaaS designed for small businesses.  
-**Tech:** TypeScript · Angular · Node.js · Prisma
+**Tech:** TypeScript · Angular · Node.js · Prisma  
+🔗 [sustock.vercel.app](https://sustock.vercel.app/)
 
-### 🛒 Mercado Sinérgico
+### 🛒 [Mercado Sinérgico](https://mercadosinergico.com.ar/)
 Marketplace platform focused on collaborative purchasing.  
-**Tech:** Angular · Node.js · APIs
+**Tech:** Angular · Node.js · APIs  
+🔗 [mercadosinergico.com.ar](https://mercadosinergico.com.ar/)
 
-### 🌐 Portfolio
+### 🌐 [Portfolio](https://pedroricartes.dev/)
 Personal website showcasing my projects and work.  
-**Tech:** React
+**Tech:** React · TypeScript · Vite · Tailwind CSS  
+🔗 [pedroricartes.dev](https://pedroricartes.dev/)
 
 ---
 
