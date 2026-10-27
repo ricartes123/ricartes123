@@ -49,6 +49,11 @@ Marketplace platform focused on collaborative purchasing.
 **Tech:** Angular · Node.js · APIs  
 🔗 [mercadosinergico.com.ar](https://mercadosinergico.com.ar/)
 
+### 🌙 [Oniria](https://oniria-portfolio.vercel.app/)
+Immersive dream journal that combines a 3D environment, dream history, statistics and deterministic dream exploration.  
+**Tech:** React · Three.js · React Three Fiber · Node.js · Express · Supabase  
+🔗 [oniria-portfolio.vercel.app](https://oniria-portfolio.vercel.app/)
+
 ### 🌐 [Portfolio](https://pedroricartes.dev/)
 Personal website showcasing my projects and work.  
 **Tech:** React · TypeScript · Vite · Tailwind CSS  
