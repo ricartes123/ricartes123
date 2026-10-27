@@ -18,7 +18,7 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind,nodejs,prisma,nextjs,mysql,postgresql,git,github,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind,nodejs,express,prisma,nextjs,mysql,postgresql,git,github,figma,vercel" />
 </p>
 
 ---
