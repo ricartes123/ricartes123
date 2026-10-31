@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pedro%20Ricartes&fontSize=40&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Web%20Developer&descAlign=50&descAlignY=50&color=gradient" width="100%" />
 <p align="center">
-<a href="https://pedroricartes.dev/"><img src="https://img.shields.io/badge/Portfolio-6a029e?style=for-the-badge"/></a>&nbsp;
+<a href="https://pedroricartes.dev/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6a029e?style=for-the-badge"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/pedro-ricartes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:pedro-le2003@hotmail.com"><img src="https://img.shields.io/badge/Contact-009e6c?style=for-the-badge"/></a>
 </p>
