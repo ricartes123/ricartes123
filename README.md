@@ -50,10 +50,6 @@ Marketplace platform focused on collaborative purchasing.
 Immersive dream journal that combines a 3D environment, dream history, statistics and deterministic dream exploration.  
 **Tech:** React · Three.js · React Three Fiber · Node.js · Express · Supabase
 
-### 🌐 [Portfolio](https://pedroricartes.dev/)
-Personal website showcasing my projects and work.  
-**Tech:** React · TypeScript · Vite · Tailwind CSS
-
 ---
 
 ## 📈 Contribution Graph
